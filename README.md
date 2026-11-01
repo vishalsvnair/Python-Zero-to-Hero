@@ -1,4 +1,4 @@
-# 150 Days of Python -- LinkedIn Learning Challenge
+# 150 Days of Python 
 
 **From Python beginner to practical data analytics, automation, and
 portfolio projects.**
