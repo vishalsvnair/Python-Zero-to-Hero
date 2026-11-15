@@ -22,115 +22,115 @@ data analysis, automation, APIs, databases, and applied projects.
 
 ### Phase 1: Python Fundamentals (Days 1--30)
 
--   [ ] **Day 001:** Introduction to Python -- What is Python?
--   [ ] **Day 002:** Why Python? Applications and Real-World Uses
--   [ ] **Day 003:** Installing Python and Setting Up VS Code
--   [ ] **Day 004:** Python IDEs -- VS Code, PyCharm and Jupyter
+-   [ ] **Day 1:** Introduction to Python -- What is Python?
+-   [ ] **Day 2:** Why Python? Applications and Real-World Uses
+-   [ ] **Day 3:** Installing Python and Setting Up VS Code
+-   [ ] **Day 4:** Python IDEs -- VS Code, PyCharm and Jupyter
     Notebook
--   [ ] **Day 005:** Your First Python Program -- Hello World
--   [ ] **Day 006:** Python Syntax and Indentation
--   [ ] **Day 007:** Comments and Writing Clean Code
--   [ ] **Day 008:** Variables in Python
--   [ ] **Day 009:** Python Data Types
--   [ ] **Day 010:** Type Checking -- `type()`
--   [ ] **Day 011:** Type Conversion and Type Casting
--   [ ] **Day 012:** Numeric Data Types -- int, float, complex
--   [ ] **Day 013:** Strings in Python
--   [ ] **Day 014:** String Indexing and Slicing
--   [ ] **Day 015:** String Methods
--   [ ] **Day 016:** String Formatting -- f-strings
--   [ ] **Day 017:** Boolean Data Type
--   [ ] **Day 018:** Python Operators
--   [ ] **Day 019:** Arithmetic Operators
--   [ ] **Day 020:** Comparison Operators
--   [ ] **Day 021:** Logical Operators
--   [ ] **Day 022:** Assignment Operators
--   [ ] **Day 023:** Membership and Identity Operators
--   [ ] **Day 024:** User Input -- `input()`
--   [ ] **Day 025:** Output Formatting -- `print()`
--   [ ] **Day 026:** Conditional Statements -- if
--   [ ] **Day 027:** if-else Statements
--   [ ] **Day 028:** elif and Nested Conditions
--   [ ] **Day 029:** Real-Life Conditional Examples
--   [ ] **Day 030:** Mini Project -- Student Marks Calculator
+-   [ ] **Day 5:** Your First Python Program -- Hello World
+-   [ ] **Day 6:** Python Syntax and Indentation
+-   [ ] **Day 7:** Comments and Writing Clean Code
+-   [ ] **Day 8:** Variables in Python
+-   [ ] **Day 9:** Python Data Types
+-   [ ] **Day 10:** Type Checking -- `type()`
+-   [ ] **Day 11:** Type Conversion and Type Casting
+-   [ ] **Day 12:** Numeric Data Types -- int, float, complex
+-   [ ] **Day 13:** Strings in Python
+-   [ ] **Day 14:** String Indexing and Slicing
+-   [ ] **Day 15:** String Methods
+-   [ ] **Day 16:** String Formatting -- f-strings
+-   [ ] **Day 17:** Boolean Data Type
+-   [ ] **Day 18:** Python Operators
+-   [ ] **Day 19:** Arithmetic Operators
+-   [ ] **Day 20:** Comparison Operators
+-   [ ] **Day 21:** Logical Operators
+-   [ ] **Day 22:** Assignment Operators
+-   [ ] **Day 23:** Membership and Identity Operators
+-   [ ] **Day 24:** User Input -- `input()`
+-   [ ] **Day 25:** Output Formatting -- `print()`
+-   [ ] **Day 26:** Conditional Statements -- if
+-   [ ] **Day 27:** if-else Statements
+-   [ ] **Day 28:** elif and Nested Conditions
+-   [ ] **Day 29:** Real-Life Conditional Examples
+-   [ ] **Day 30:** Mini Project -- Student Marks Calculator
 
 ### Phase 2: Python Data Structures & Programming Logic (Days 31--60)
 
--   [ ] **Day 031:** Introduction to Python Data Structures
--   [ ] **Day 032:** Lists in Python
--   [ ] **Day 033:** List Indexing and Slicing
--   [ ] **Day 034:** List Methods -- append, insert, remove
--   [ ] **Day 035:** Sorting and Reversing Lists
--   [ ] **Day 036:** List Comprehension
--   [ ] **Day 037:** Tuples in Python
--   [ ] **Day 038:** Tuple Methods and Operations
--   [ ] **Day 039:** Sets in Python
--   [ ] **Day 040:** Set Methods and Set Operations
--   [ ] **Day 041:** Dictionaries in Python
--   [ ] **Day 042:** Dictionary Keys and Values
--   [ ] **Day 043:** Dictionary Methods
--   [ ] **Day 044:** Nested Dictionaries
--   [ ] **Day 045:** List vs Tuple vs Set vs Dictionary
--   [ ] **Day 046:** For Loops
--   [ ] **Day 047:** While Loops
--   [ ] **Day 048:** break, continue and pass
--   [ ] **Day 049:** Nested Loops
--   [ ] **Day 050:** `range()` Function
--   [ ] **Day 051:** `enumerate()` Function
--   [ ] **Day 052:** `zip()` Function
--   [ ] **Day 053:** Iterables and Iterators
--   [ ] **Day 054:** Generators -- Introduction
--   [ ] **Day 055:** Functions in Python
--   [ ] **Day 056:** Function Parameters and Arguments
--   [ ] **Day 057:** Return Statement
--   [ ] **Day 058:** Lambda Functions
--   [ ] **Day 059:** `map()`, `filter()` and `reduce()`
--   [ ] **Day 060:** Mini Project -- Expense Tracker
+-   [ ] **Day 31:** Introduction to Python Data Structures
+-   [ ] **Day 32:** Lists in Python
+-   [ ] **Day 33:** List Indexing and Slicing
+-   [ ] **Day 34:** List Methods -- append, insert, remove
+-   [ ] **Day 35:** Sorting and Reversing Lists
+-   [ ] **Day 36:** List Comprehension
+-   [ ] **Day 37:** Tuples in Python
+-   [ ] **Day 38:** Tuple Methods and Operations
+-   [ ] **Day 39:** Sets in Python
+-   [ ] **Day 40:** Set Methods and Set Operations
+-   [ ] **Day 41:** Dictionaries in Python
+-   [ ] **Day 42:** Dictionary Keys and Values
+-   [ ] **Day 43:** Dictionary Methods
+-   [ ] **Day 44:** Nested Dictionaries
+-   [ ] **Day 45:** List vs Tuple vs Set vs Dictionary
+-   [ ] **Day 46:** For Loops
+-   [ ] **Day 47:** While Loops
+-   [ ] **Day 48:** break, continue and pass
+-   [ ] **Day 49:** Nested Loops
+-   [ ] **Day 50:** `range()` Function
+-   [ ] **Day 51:** `enumerate()` Function
+-   [ ] **Day 52:** `zip()` Function
+-   [ ] **Day 53:** Iterables and Iterators
+-   [ ] **Day 54:** Generators -- Introduction
+-   [ ] **Day 55:** Functions in Python
+-   [ ] **Day 56:** Function Parameters and Arguments
+-   [ ] **Day 57:** Return Statement
+-   [ ] **Day 58:** Lambda Functions
+-   [ ] **Day 59:** `map()`, `filter()` and `reduce()`
+-   [ ] **Day 60:** Mini Project -- Expense Tracker
 
 ### Phase 3: Intermediate & Advanced Python (Days 61--90)
 
--   [ ] **Day 061:** Introduction to Object-Oriented Programming
--   [ ] **Day 062:** Classes and Objects
--   [ ] **Day 063:** Constructors -- `__init__()`
--   [ ] **Day 064:** Instance Variables and Class Variables
--   [ ] **Day 065:** Instance Methods and Class Methods
--   [ ] **Day 066:** Inheritance
--   [ ] **Day 067:** Types of Inheritance
--   [ ] **Day 068:** Polymorphism
--   [ ] **Day 069:** Encapsulation
--   [ ] **Day 070:** Abstraction
--   [ ] **Day 071:** Method Overriding
--   [ ] **Day 072:** Special / Magic Methods
--   [ ] **Day 073:** Exception Handling
--   [ ] **Day 074:** `try`, `except` and `finally`
--   [ ] **Day 075:** Custom Exceptions
--   [ ] **Day 076:** File Handling in Python
--   [ ] **Day 077:** Reading Text Files
--   [ ] **Day 078:** Writing and Appending Files
--   [ ] **Day 079:** Working with CSV Files
--   [ ] **Day 080:** Working with JSON Files
--   [ ] **Day 081:** Python Modules
--   [ ] **Day 082:** Creating Custom Modules
--   [ ] **Day 083:** Python Packages
--   [ ] **Day 084:** Importing Libraries
--   [ ] **Day 085:** `pip` and Package Management
--   [ ] **Day 086:** Virtual Environments
--   [ ] **Day 087:** Python Decorators
--   [ ] **Day 088:** Context Managers
--   [ ] **Day 089:** Regular Expressions (Regex)
--   [ ] **Day 090:** Mini Project -- Employee Management System
+-   [ ] **Day 61:** Introduction to Object-Oriented Programming
+-   [ ] **Day 62:** Classes and Objects
+-   [ ] **Day 63:** Constructors -- `__init__()`
+-   [ ] **Day 64:** Instance Variables and Class Variables
+-   [ ] **Day 65:** Instance Methods and Class Methods
+-   [ ] **Day 66:** Inheritance
+-   [ ] **Day 67:** Types of Inheritance
+-   [ ] **Day 68:** Polymorphism
+-   [ ] **Day 69:** Encapsulation
+-   [ ] **Day 70:** Abstraction
+-   [ ] **Day 71:** Method Overriding
+-   [ ] **Day 72:** Special / Magic Methods
+-   [ ] **Day 73:** Exception Handling
+-   [ ] **Day 74:** `try`, `except` and `finally`
+-   [ ] **Day 75:** Custom Exceptions
+-   [ ] **Day 76:** File Handling in Python
+-   [ ] **Day 77:** Reading Text Files
+-   [ ] **Day 78:** Writing and Appending Files
+-   [ ] **Day 79:** Working with CSV Files
+-   [ ] **Day 80:** Working with JSON Files
+-   [ ] **Day 81:** Python Modules
+-   [ ] **Day 82:** Creating Custom Modules
+-   [ ] **Day 83:** Python Packages
+-   [ ] **Day 84:** Importing Libraries
+-   [ ] **Day 85:** `pip` and Package Management
+-   [ ] **Day 86:** Virtual Environments
+-   [ ] **Day 87:** Python Decorators
+-   [ ] **Day 88:** Context Managers
+-   [ ] **Day 89:** Regular Expressions (Regex)
+-   [ ] **Day 90:** Mini Project -- Employee Management System
 
 ### Phase 4: Python for Data Analytics (Days 91--120)
 
--   [ ] **Day 091:** Introduction to Python for Data Analytics
--   [ ] **Day 092:** Jupyter Notebook for Data Analysis
--   [ ] **Day 093:** Introduction to NumPy
--   [ ] **Day 094:** NumPy Arrays
--   [ ] **Day 095:** Array Indexing and Slicing
--   [ ] **Day 096:** NumPy Array Operations
--   [ ] **Day 097:** NumPy Statistical Functions
--   [ ] **Day 098:** Introduction to Pandas
--   [ ] **Day 099:** Series and DataFrames
+-   [ ] **Day 91:** Introduction to Python for Data Analytics
+-   [ ] **Day 92:** Jupyter Notebook for Data Analysis
+-   [ ] **Day 93:** Introduction to NumPy
+-   [ ] **Day 94:** NumPy Arrays
+-   [ ] **Day 95:** Array Indexing and Slicing
+-   [ ] **Day 96:** NumPy Array Operations
+-   [ ] **Day 97:** NumPy Statistical Functions
+-   [ ] **Day 98:** Introduction to Pandas
+-   [ ] **Day 99:** Series and DataFrames
 -   [ ] **Day 100:** Reading CSV and Excel Files
 -   [ ] **Day 101:** DataFrame Inspection -- `head()`, `info()`,
     `describe()`
